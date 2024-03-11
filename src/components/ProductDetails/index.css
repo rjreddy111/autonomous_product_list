@@ -1,0 +1,35 @@
+.main-details-page {
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  padding-bottom: 15px;
+
+  align-items: flex-start;
+}
+
+h4 {
+  font-size: 26px;
+}
+
+.image-style {
+  width: 250px;
+}
+
+.price-details {
+  color: black;
+  font-size: 24px;
+  color: green;
+}
+
+.rating-price-count {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+.rating-style {
+  display: flex;
+  width: 20%;
+  justify-content: space-between;
+}

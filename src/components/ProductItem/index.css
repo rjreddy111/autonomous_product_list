@@ -1,0 +1,61 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+
+.link-style {
+  text-decoration: none;
+  width: 45%;
+
+  border: 2px solid grey;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px 5px skyblue;
+}
+
+.list-style {
+  list-style-type: none;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  width: 130px;
+  height: 150px;
+}
+.titel {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.proce {
+  color: green;
+  font-weight: bold;
+}
+
+.category {
+  color: red;
+}
+.description {
+  color: grey;
+  font-size: 12px;
+}
+.rating {
+  color: #467a01;
+}
+.rating-price {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.buy-now {
+  background-color: #0f7bf7;
+  border-radius: 8px;
+  height: 40px;
+  color: #f0f0f0;
+  border: none;
+  width: 100px;
+}
+
+.buy-now:hover {
+  background-color: #08c4d1;
+}

@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.star {
+  color: #ddd;
+}
+
+.star.filled {
+  color: gold;
+}
+
+.star-rating {
+  font-size: 24px;
+}
