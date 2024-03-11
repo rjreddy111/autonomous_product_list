@@ -4,7 +4,7 @@
 .link-style {
   text-decoration: none;
   width: 45%;
-
+  text-align: center;
   border: 2px solid grey;
   border-radius: 10px;
   margin-bottom: 20px;
@@ -12,14 +12,16 @@
 }
 
 .list-style {
+  width: 100%;
   list-style-type: none;
   padding: 10px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .image {
-  width: 130px;
+  width: 30%;
   height: 150px;
 }
 .titel {
